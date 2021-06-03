@@ -66,11 +66,10 @@ nav ul li a:hover{
                    color: #444;
 }
 h1{
-	font-family:'Cormorant Unicase';
+	font-family:'Limelight';
 	font-size: 40px;
 	color: black;
 	text-align: center;
-	border: 4px dotted #fff9f9;
 	padding: 8px;
 }
 
@@ -78,7 +77,7 @@ h1{
 
 
 p{
-        font-family:'Cormorant Unicase';
+        font-family:'Limelight';
         font-size: 25px;
         text-align: Center;
         color: white;

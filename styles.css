@@ -83,10 +83,11 @@ p{
         color: white;
 }
 
-.img1{
+.img{
       width: 500px;
       display: block;
       margin: auto;
-      border-radius: 50px;
-      border: withe 8px ridge;
+      border: 10px solid;
+      color: black;
+      
 }

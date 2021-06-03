@@ -83,3 +83,11 @@ p{
         text-align: Center;
         color: white;
 }
+
+.img1{
+      width: 500px;
+      display: block;
+      margin: auto;
+      border-radius: 50px;
+      border: withe 8px ridge;
+}

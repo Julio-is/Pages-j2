@@ -65,3 +65,11 @@ nav ul li a{
 nav ul li a:hover{
                    color: #444;
 }
+h1{
+	font-family:'Cormorant Unicase';
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	border: 4px dotted #fff9f9;
+	padding: 8px;
+}

@@ -140,10 +140,10 @@ p{
 }
 
 .bloque {
-            width: 900px;
-            height: 100px;
+            width: 100%;
+            height: 50px;
             background: #000000;
             font-family: 'Limelight';
             text-align: center;
-            position: absolute;
+            
 }
